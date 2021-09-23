@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kr.hs.emirim.w2036.tdd">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TDD">
+        <activity android:name=".January2"></activity>
+        <activity android:name=".January1" />
+        <activity android:name=".December" />
+        <activity android:name=".November" />
+        <activity android:name=".October" />
+        <activity android:name=".September" />
+        <activity android:name=".August" />
+        <activity android:name=".July" />
+        <activity android:name=".June" />
+        <activity android:name=".May" />
+        <activity android:name=".April" />
+        <activity android:name=".March" />
+        <activity android:name=".February" />
+        <activity android:name=".January" />
+        <activity android:name=".PickMonthActivity" />
+<!--        <activity android:name=".MainActivity">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+<!--        </activity>-->
+        <activity
+            android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

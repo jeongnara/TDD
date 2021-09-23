@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TDD</string>
+    <string name="title">TDD</string>
+    <string name="sub_title">To Day Diary</string>
+    <string name="month">Month</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="btn_date_1">1</string>
+    <string name="btn_date_2">2</string>
+    <string name="btn_date_3">3</string>
+    <string name="btn_date_4">4</string>
+    <string name="btn_date_5">5</string>
+    <string name="btn_date_6">6</string>
+    <string name="btn_date_7">7</string>
+    <string name="btn_date_8">8</string>
+    <string name="btn_date_9">9</string>
+    <string name="btn_date_10">10</string>
+    <string name="btn_date_11">11</string>
+    <string name="btn_date_12">12</string>
+    <string name="btn_date_13">13</string>
+    <string name="btn_date_14">14</string>
+    <string name="btn_date_15">15</string>
+    <string name="btn_date_16">16</string>
+    <string name="btn_date_17">17</string>
+    <string name="btn_date_18">18</string>
+    <string name="btn_date_19">19</string>
+    <string name="btn_date_20">20</string>
+    <string name="btn_date_21">21</string>
+    <string name="btn_date_22">22</string>
+    <string name="btn_date_23">23</string>
+    <string name="btn_date_24">24</string>
+    <string name="btn_date_25">25</string>
+    <string name="btn_date_26">26</string>
+    <string name="btn_date_27">27</string>
+    <string name="btn_date_28">28</string>
+    <string name="btn_date_29">29</string>
+    <string name="btn_date_30">30</string>
+    <string name="btn_date_31">31</string>
+</resources>
